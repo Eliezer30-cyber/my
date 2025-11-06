@@ -1,0 +1,9 @@
+# Dependencias para el servidor Flask en Railway (Linux)
+# Este archivo NO incluye pywin32, pyautogui, ni Pillow
+# porque son solo para Windows y el cliente
+
+Flask>=3.0.0
+flask-cors>=4.0.0
+requests>=2.31.0
+PyYAML>=6.0.1
+
