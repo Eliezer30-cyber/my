@@ -1,0 +1,9 @@
+# Dependencias para el cliente (Windows) - NO usar en Railway
+# Este archivo es solo para desarrollo local del cliente
+
+pyautogui>=0.9.54
+pywin32>=307
+requests>=2.31.0
+PyYAML>=6.0.1
+Pillow>=10.1.0
+
